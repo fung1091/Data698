@@ -1,5 +1,6 @@
 # Data698
-
+# Report
+- https://rawcdn.githack.com/fung1091/Data698/master/final/finalreport.html
 
 # Data 698 - Final report
 
@@ -30,7 +31,6 @@
    1.3 [Why the problem is interesting](#4)<br>
    1.4 [What other approaches](#5)<br>
    1.5 [Discussion on your hypothesis](#6)<br>
-<br>
 2. [Literature review](#7)<br>
    2.1 [S&P 500 Index](#8)<br>
    2.2 [Time series forecasting](#9)<br>
@@ -42,24 +42,20 @@
    2.8 [Machine learning - ARIMA](#15)<br>
    2.9 [Machine learning - Prophet](#16)<br>
    2.10 [Machine learning - Long Short-Term Memory](#17)<br>
-<br>
 3. [Methodology section](#18)<br>
    3.1 [Data Exploration](#19)<br>
    3.2 [Higher monthly return](#20)<br>
    3.3 [Portfolio Optimization](#21)<br>
    3.4 [Machine Learning](#22)<br>
-<br>
 4. [Definition of data collection method](#23)<br>
    4.1 [Data Exploration](#24)<br>
    4.2 [Data Preparation - Stock Tickers and Dataset](#25)<br>
    4.3 [Visualization and Correlation](#26)<br>
-<br>
 5. [Experimentation and Results](#27)<br>
    5.1 [The highest Correlation (Sort out top 30 stocks from all 500 shares)](#28)<br>
    5.2 [The highest monthly return (Sort out top 10 from 30 stocks share)](#29)<br>
    5.3 [portfolio optimization - Random Portfolios from top 10 stocks share](#30)<br>
    5.4 [Portfolio Optimization - Efficient Frontier from top 10 stocks share](#31)<br>
-<br>
 6. [Machine Learning](#32)<br>
    6.1 [Moving average](#33)<br>
    6.2 [Linear regression](#34)<br>
@@ -68,7 +64,6 @@
    6.5 [Prophet](#37)<br>
    6.6 [Long Short-Term Memory](#38)<br>
    6.7 [Model Comparsion](#39)<br>
-<br>
 7. [Conclusion](#40)<br>
 
 ## 1. Introduction<a id="1"></a>
