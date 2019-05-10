@@ -3,8 +3,25 @@
 - https://rawcdn.githack.com/fung1091/Data698/master/final/finalreport1.html
 - https://nbviewer.jupyter.org/github/fung1091/Data698/blob/master/final/finalreport.ipynb
 
+
+
+
+Pdf final report at Github and uploaded:
+
+https://github.com/fung1091/Data698/blob/master/final/finalreport_final.pdf
+
+Full code of ipynb at Github:
+
+https://github.com/fung1091/Data698/blob/master/final/finalreport.ipynb
+
+or use the follow link to open:
+
+https://nbviewer.jupyter.org/github/fung1091/Data698/blob/master/final/finalreport.ipynb
+
 # Present
 - https://youtu.be/DZJXHo-h6XU
+
+
 
 # Data 698 - Final report
 
