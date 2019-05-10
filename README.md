@@ -3,6 +3,9 @@
 - https://rawcdn.githack.com/fung1091/Data698/master/final/finalreport1.html
 - https://nbviewer.jupyter.org/github/fung1091/Data698/blob/master/final/finalreport.ipynb
 
+# Present
+- https://youtu.be/DZJXHo-h6XU
+
 # Data 698 - Final report
 
 ## Tze Fung Lung, Jim
