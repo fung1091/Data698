@@ -19,6 +19,7 @@ or use the follow link to open:
 https://nbviewer.jupyter.org/github/fung1091/Data698/blob/master/final/finalreport.ipynb
 
 # Present
+- https://github.com/fung1091/Data698/blob/master/final/presentation.pdf
 - https://youtu.be/DZJXHo-h6XU
 
 
